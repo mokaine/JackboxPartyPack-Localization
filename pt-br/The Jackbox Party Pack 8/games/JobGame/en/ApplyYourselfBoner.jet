@@ -1,220 +1,220 @@
 {
- "content": [
-  {
-   "id": "76463",
-   "isValid": "",
-   "phrase": "Can’t play game good for you :(",
-   "x": false
-  },
-  {
-   "id": "76464",
-   "isValid": "",
-   "phrase": "I ruined game time I guess",
-   "x": false
-  },
-  {
-   "id": "76465",
-   "isValid": "",
-   "phrase": "Got distracted and now no funny",
-   "x": false
-  },
-  {
-   "id": "76466",
-   "isValid": "",
-   "phrase": "Tapping on words is too hard please!",
-   "x": false
-  },
-  {
-   "id": "76467",
-   "isValid": "",
-   "phrase": "I didn't want any points anyway",
-   "x": false
-  },
-  {
-   "id": "76469",
-   "isValid": "",
-   "phrase": "I said I would play game but I lied",
-   "x": false
-  },
-  {
-   "id": "76470",
-   "isValid": "",
-   "phrase": "Let me answer that with a question: How play game?",
-   "x": false
-  },
-  {
-   "id": "76471",
-   "isValid": "",
-   "phrase": "I forgot to answer so now I do little jig for everyone",
-   "x": false
-  },
-  {
-   "id": "82997",
-   "isValid": "",
-   "phrase": "Don't pick this, I doesn't play",
-   "x": false
-  },
-  {
-   "id": "82999",
-   "isValid": "",
-   "phrase": "I didnt write anything my sincerest apologize",
-   "x": false
-  },
-  {
-   "id": "83085",
-   "isValid": "",
-   "phrase": "Here are words for this player who no play.",
-   "x": false
-  },
-  {
-   "id": "83087",
-   "isValid": "",
-   "phrase": "I lost this round on Purpose",
-   "x": false
-  },
-  {
-   "id": "83092",
-   "isValid": "",
-   "phrase": "I can be witty just not this round",
-   "x": false
-  },
-  {
-   "id": "83095",
-   "isValid": "",
-   "phrase": "Oh no ! no word put in game",
-   "x": false
-  },
-  {
-   "id": "83910",
-   "isValid": "",
-   "phrase": "i game bad ? yes",
-   "x": false
-  },
-  {
-   "id": "83915",
-   "isValid": "",
-   "phrase": "click button - i did not",
-   "x": false
-  },
-  {
-   "id": "83918",
-   "isValid": "",
-   "phrase": "i forgot 2 play",
-   "x": false
-  },
-  {
-   "id": "83997",
-   "isValid": "",
-   "phrase": "bad player gave nothing",
-   "x": false
-  },
-  {
-   "id": "84000",
-   "isValid": "",
-   "phrase": "play no more i did",
-   "x": false
-  },
-  {
-   "id": "84348",
-   "isValid": "",
-   "phrase": "vote for other one",
-   "x": false
-  },
-  {
-   "id": "84349",
-   "isValid": "",
-   "phrase": "i no follow directions",
-   "x": false
-  },
-  {
-   "id": "84353",
-   "isValid": "",
-   "phrase": "don't vote for me i messed up",
-   "x": false
-  },
-  {
-   "id": "84772",
-   "isValid": "",
-   "phrase": "ha ha ha i no play",
-   "x": false
-  },
-  {
-   "id": "84774",
-   "isValid": "",
-   "phrase": "hey, it's me, the Game.  what happened to this player?",
-   "x": false
-  },
-  {
-   "id": "84776",
-   "isValid": "",
-   "phrase": "oh I made nothing",
-   "x": false
-  },
-  {
-   "id": "84777",
-   "isValid": "",
-   "phrase": "let the game answer I guess",
-   "x": false
-  },
-  {
-   "id": "84778",
-   "isValid": "",
-   "phrase": "you get no answer from me",
-   "x": false
-  },
-  {
-   "id": "84874",
-   "isValid": "",
-   "phrase": "bad no answer here",
-   "x": false
-  },
-  {
-   "id": "84876",
-   "isValid": "",
-   "phrase": "i destroy game",
-   "x": false
-  },
-  {
-   "id": "84880",
-   "isValid": "",
-   "phrase": "i ran out of time",
-   "x": false
-  },
-  {
-   "id": "84884",
-   "isValid": "",
-   "phrase": "i make mistake no answer",
-   "x": false
-  },
-  {
-   "id": "84950",
-   "isValid": "",
-   "phrase": "I had one jobjob and I didn't do it",
-   "x": false
-  },
-  {
-   "id": "84952",
-   "isValid": "",
-   "phrase": "I didnt answer ,  but it's no big deal",
-   "x": false
-  },
-  {
-   "id": "84954",
-   "isValid": "",
-   "phrase": "shame this player for not answer",
-   "x": false
-  },
-  {
-   "id": "84956",
-   "isValid": "",
-   "phrase": "i put nothing in and broke the darn game",
-   "x": false
-  },
-  {
-   "id": "84958",
-   "isValid": "",
-   "phrase": "i didn't write answer shun me",
-   "x": false
-  }
- ]
+   "content":[
+      {
+         "id":"76463",
+         "isValid":"",
+         "phrase":"Não da pra jogar jogo bom pra você :(",
+         "x":false
+      },
+      {
+         "id":"76464",
+         "isValid":"",
+         "phrase":"Eu arruinei o tempo de jogo",
+         "x":false
+      },
+      {
+         "id":"76465",
+         "isValid":"",
+         "phrase":"Me distrai e agora nada engraçado",
+         "x":false
+      },
+      {
+         "id":"76466",
+         "isValid":"",
+         "phrase":"Ficar arrastando palavras é dificil demais por favor!",
+         "x":false
+      },
+      {
+         "id":"76467",
+         "isValid":"",
+         "phrase":"Eu não queria nenhum ponto mesmo",
+         "x":false
+      },
+      {
+         "id":"76469",
+         "isValid":"",
+         "phrase":"Eu disse que eu ia jogar o joga mas eu menti",
+         "x":false
+      },
+      {
+         "id":"76470",
+         "isValid":"",
+         "phrase":"Deixe-me responde isso com uma pergunta: como jogar o jogo?",
+         "x":false
+      },
+      {
+         "id":"76471",
+         "isValid":"",
+         "phrase":"Eu esqueci de responder então agora vou fazer uma dancing pra todo mundo",
+         "x":false
+      },
+      {
+         "id":"82997",
+         "isValid":"",
+         "phrase":"Não escolha isso, eu não joga",
+         "x":false
+      },
+      {
+         "id":"82999",
+         "isValid":"",
+         "phrase":"Eu não escrevi nada minhas mais sinceras coondolescencias",
+         "x":false
+      },
+      {
+         "id":"83085",
+         "isValid":"",
+         "phrase":"aqui está palavras pra esse jogador que não joga.",
+         "x":false
+      },
+      {
+         "id":"83087",
+         "isValid":"",
+         "phrase":"Perdi este round de propósito",
+         "x":false
+      },
+      {
+         "id":"83092",
+         "isValid":"",
+         "phrase":"Posso ser inteligente mas não nesse turno",
+         "x":false
+      },
+      {
+         "id":"83095",
+         "isValid":"",
+         "phrase":"Ah não, nenhuma palavra botada no jogo",
+         "x":false
+      },
+      {
+         "id":"83910",
+         "isValid":"",
+         "phrase":"Eu sou ruim de jogo? sim",
+         "x":false
+      },
+      {
+         "id":"83915",
+         "isValid":"",
+         "phrase":"clicar no botão - eu não",
+         "x":false
+      },
+      {
+         "id":"83918",
+         "isValid":"",
+         "phrase":"eu esqueci de joga",
+         "x":false
+      },
+      {
+         "id":"83997",
+         "isValid":"",
+         "phrase":"jogar ruim num deu nada pra nada",
+         "x":false
+      },
+      {
+         "id":"84000",
+         "isValid":"",
+         "phrase":"jogar não eu não joguei",
+         "x":false
+      },
+      {
+         "id":"84348",
+         "isValid":"",
+         "phrase":"vote para o outro",
+         "x":false
+      },
+      {
+         "id":"84349",
+         "isValid":"",
+         "phrase":"eu não sigo direções",
+         "x":false
+      },
+      {
+         "id":"84353",
+         "isValid":"",
+         "phrase":"não vote em mim eu fiz uma cagada",
+         "x":false
+      },
+      {
+         "id":"84772",
+         "isValid":"",
+         "phrase":"ha ha ha eu não joguei",
+         "x":false
+      },
+      {
+         "id":"84774",
+         "isValid":"",
+         "phrase":"Olá, sou eu, o jogo. O que aconteceu com este jogador?",
+         "x":false
+      },
+      {
+         "id":"84776",
+         "isValid":"",
+         "phrase":"ah eu não fiz nada",
+         "x":false
+      },
+      {
+         "id":"84777",
+         "isValid":"",
+         "phrase":"deixe o jogo responder eu acho",
+         "x":false
+      },
+      {
+         "id":"84778",
+         "isValid":"",
+         "phrase":"you não receberá nenhuma resposta de mim",
+         "x":false
+      },
+      {
+         "id":"84874",
+         "isValid":"",
+         "phrase":"ruim sem resposta aqui",
+         "x":false
+      },
+      {
+         "id":"84876",
+         "isValid":"",
+         "phrase":"eu destrui o jogo",
+         "x":false
+      },
+      {
+         "id":"84880",
+         "isValid":"",
+         "phrase":"acabei ficando sem tempo",
+         "x":false
+      },
+      {
+         "id":"84884",
+         "isValid":"",
+         "phrase":"eu faço erro sem resposta",
+         "x":false
+      },
+      {
+         "id":"84950",
+         "isValid":"",
+         "phrase":"eu tinha um jobjob e eu não consegui faze-lo",
+         "x":false
+      },
+      {
+         "id":"84952",
+         "isValid":"",
+         "phrase":"eu não respondi , mas dane-se",
+         "x":false
+      },
+      {
+         "id":"84954",
+         "isValid":"",
+         "phrase":"envergonhe este jogador por não responder",
+         "x":false
+      },
+      {
+         "id":"84956",
+         "isValid":"",
+         "phrase":"eu não botei nada e acabei com o jogo",
+         "x":false
+      },
+      {
+         "id":"84958",
+         "isValid":"",
+         "phrase":"eu não escrevi nada podem me zoar",
+         "x":false
+      }
+   ]
 }
